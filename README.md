@@ -6,4 +6,4 @@ prueba clase 14/09/2022
 - lista 1:
 
 ----
-[onepiece.wiki](https://onepiece.fandom.com/es/wiki/Buggy)
+
